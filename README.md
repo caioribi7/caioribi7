@@ -1,4 +1,8 @@
-`~ $ cat about-me.txt`
+<p align="center">
+  <img src="./assets/terminal.gif" alt="Caio Ribi — terminal animado com ASCII e cursor verde." width="100%">
+</p>
+
+### `~ $ cat about-me.txt`
 
 ```text
 caioribi7@github:~
