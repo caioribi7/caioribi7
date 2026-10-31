@@ -1,4 +1,4 @@
-'~ $ cat about-me.txt`
+`~ $ cat about-me.txt`
 
 ```text
 caioribi7@github:~
