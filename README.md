@@ -1,7 +1,4 @@
-<p align="center">
-  <img src="./assets/terminal.gif" alt="Caio Ribi — terminal animado com ASCII e cursor verde." width="100%">
-</p>
-
+<iframe src="https://jasperbernaers.com/terminal-text-animator/#m=N4IgbiBcBMA0IBcCmAPBUQBIAEB3AFgPYCGAtgJYA6AdtoBGkDjg6qTb2N0tufsMs0OAVUkAKpCKGBdUjbChvNoEVSSaN78681mp4N5muepXLVahdJU7trTTUBapBpZnt26zwFia2S6JET3Et+N8-3DwkaZXZuDjYw8w5lKRl7OjiIi2oNZ1MnCRTBEXiTHONbPVSTDK1MuSs-fxrA0QC-EHgEfCRSJAwAYwAndHhOgFdugGdCbowAIwAbQk6AayaQYYAHJCQAEyhoOBAAM2HyAC8OmAA2eGIVpE70SBAARlOATkXdlChQAHMZ3Ch7+GGnWI1D+8F2U3I8yQ40gAAZ+kMwCd-iBSMQEN1yO84QDCANqJscSBlt1CKRlrdYQBfeD4AZokGQU7wxAAT2WhCgLKQ1GQMNhADoAMzwQjrJBTLkC2HnEBEKaE+4CnYIcgIKYnECLZZvDCLGaEZZcgEEjDtTr4RZgQiSpnUoA&embed" width="640" height="360" style="border:0;max-width:100%" allow="fullscreen" loading="lazy" title="Terminal text animation"></iframe>
 ### `~ $ cat about-me.txt`
 
 ```text
