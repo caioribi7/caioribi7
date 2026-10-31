@@ -1,56 +1,34 @@
-<div align="center">
+<!-- Banner animado (ASCII + halftone). Gere de novo com: python3 gerar_banner.py -->
+<p align="center">
+  <img src="banner.svg" alt="banner ascii halftone neon" width="100%">
+</p>
 
-# 👋 Hi, i am Caio Ribi!
+<!-- Frases digitando em verde neon (troque as linhas em "lines") -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=00FF41&background=00000000&center=true&vCenter=true&width=600&lines=%3E+hello%2C+world;%3E+building+cool+stuff;%3E+coffee+%3D+code" alt="typing">
+</p>
 
-### Math's, Clean Codes, Problem Solving
+<!-- Ondas verdes animadas como divisor -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=80&section=header&fontColor=000000" width="100%">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=435&lines=Full+Web+Development;Always+learning+new+things;Problem+Solver)](https://git.io/typing-svg)
+## `> whoami`
+```text
+nome     : SEU NOME
+foco     : o que você faz
+stack    : tecnologias que você usa
+contato  : seu@email.com
+```
 
-</div>
+## `> stack`
+<p>
+  <img src="https://skillicons.dev/icons?i=py,js,ts,react,node,git,linux&theme=dark">
+</p>
 
----
+## `> stats`
+<!-- Troque SEU_USUARIO pelo seu usuário do GitHub -->
+<p>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_border=true&bg_color=000000&title_color=00FF41&text_color=00FF41&icon_color=00FF41">
+  <img height="150" src="https://streak-stats.demolab.com?user=SEU_USUARIO&hide_border=true&background=000000&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&currStreakNum=00FF41&sideNums=00FF41&dates=00FF41">
+</p>
 
-## 🧑‍💻 About me
-
-- 🔭 Working on **My own Portfolio**
-- 🌱 Learning **Tailwind CSS**
-- 💬 Ask me about **HTML/CSS/JS/React/MongoDB/LaTeX/Python**
-- ⚡ Curious fact: **My first contact with programming was through Portugol.**
-- 📍 Currently in **RS/Brazil**
-
----
-
-## 🛠️ Tech Stack
-
-**Tecnologies**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
----
-
-## 📬 How to find me
-
-<div align="center">
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu@email.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=firefox&logoColor=white)](https://seuportfolio.dev)
-
-</div>
-
----
-
-<div align="center">
-  
-  **"Ouse Saber, ou Sapere Aude."**
-  ### - Immanuel Kant
-  
-  ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=caioribi7.caioribi7)
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=80&section=footer" width="100%">
